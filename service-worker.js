@@ -1,4 +1,4 @@
-const CACHE_NAME = 'qwerty-cache-v1';
+const CACHE_NAME = 'qwerty-cache-version-1.0.0';
 const STATIC_FILES = [
   '/qwerty/',
   '/qwerty/styles.css',
