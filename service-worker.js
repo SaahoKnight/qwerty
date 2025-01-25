@@ -1,7 +1,7 @@
 const CACHE_NAME = 'my-app-cache-v1';
 const STATIC_FILES = [
-  '/index.html',       // Your HTML file
-  '/styles.css',       // Your CSS file
+  '/qwerty/index.html',       // Your HTML file
+  '/qwerty/styles.css',       // Your CSS file
 ];
 
 // Install the service worker and cache static files
