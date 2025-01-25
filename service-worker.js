@@ -2,10 +2,9 @@ const CACHE_NAME = 'qwerty-cache-v1';
 const STATIC_FILES = [
   '/qwerty/',
   '/qwerty/styles.css',
+  '/qwerty/composeApp.js',
   '/qwerty/2eaba8643e2ccdf352b4.wasm',
   '/qwerty/61fd663c2937b477bfdf.wasm',
-  '/qwerty/composeApp.js',
-  '/qwerty/composeApp.js.map',
   '/qwerty/composeResources/tracksbin.composeapp.generated.resources/drawable/compose-multiplatform.xml'
 ];
 
