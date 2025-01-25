@@ -11,7 +11,7 @@
         if ('serviceWorker' in navigator) {
             document.addEventListener('DOMContentLoaded', function () {
                 navigator.serviceWorker
-                    .register('/service-worker.js') // Ensure correct path to your service worker file
+                    .register('/qwerty/service-worker.js') // Ensure correct path to your service worker file
                     .then(function (registration) {
                         console.log('Service Worker registered with scope:', registration.scope);
                     })
