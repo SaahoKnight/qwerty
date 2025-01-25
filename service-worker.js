@@ -2,6 +2,10 @@ const CACHE_NAME = 'my-app-cache-v1';
 const STATIC_FILES = [
   '/qwerty/index.html',       // Your HTML file
   '/qwerty/styles.css',       // Your CSS file
+  '/qwerty/2eaba8643e2ccdf352b4.wasm',
+  '/qwerty/61fd663c2937b477bfdf.wasm',
+  '/qwerty/composeApp.js',
+  '/qwerty/composeApp.js.map'
 ];
 
 // Install the service worker and cache static files
